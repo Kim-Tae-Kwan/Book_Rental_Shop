@@ -4,7 +4,7 @@ C# WinForm, MySQL 사용한 도서 관리 프로그램
 ****
 >## C# WinForm GUI
 ****
-로그인 화면
+로그인 화면 (MD5를 활용하여 보안)
 
 ![](/readmeFile/BookRentalShop_Login.png)
 
